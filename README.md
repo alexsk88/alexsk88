@@ -2,16 +2,16 @@
 
 <!--
 **alexsk88/alexsk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="http://codely.tv/wp-content/uploads/2016/05/cropped-logo-codelyTV.png" align="left" width="192px" height="192px"/>
+<img src="https://blog.gft.com/es/wp-content/uploads/sites/3/2017/02/Frontend-spectrum_image1.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> Keep it simple :)
+> If you can imagine you can program it
 
-[![CodelyTV](https://img.shields.io/badge/code-codely-green.svg?style=flat-square)](codely.tv)
+[![Briefcase](https://github.com/alexsk88)](briefcase-me)
 
-**CodelyTv** is the way to rediscover the programming ;) Trusted by more than 1000 youtube subscribers.
+**CodelyTv** always in constant learning
 
-Trust in **Codely**, trust in **you**.
+The design is a **Art**, the software needs **ARTT**.
 
 Here are some ideas to get you started:
 
