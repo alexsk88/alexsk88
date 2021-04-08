@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**alexsk88/alexsk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexsk88/alexsk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img src="http://codely.tv/wp-content/uploads/2016/05/cropped-logo-codelyTV.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Español, Englid...
 - ⚡ Fun fact: ...
--->
