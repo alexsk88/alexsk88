@@ -11,11 +11,10 @@
 **Knowledge** always in constant learning
 
 The design is a **Art**, the software needs **ARTT**.
+_____________________________________________________
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Ruby on Rails 
+- 🔭 I’m currently working on NodeJs / Angular-React
 - 🌱 I’m currently learning React Hooks
-- 👯 I’m looking to collaborate on M
+- 👯 I’m looking on AWS/ docker
 - 🤔 I’m looking for help with all to necesities
-- 😄 Pronouns: Español, Englid...
+- 😄 Pronouns: Español, English
